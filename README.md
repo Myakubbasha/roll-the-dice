@@ -1,1 +1,1 @@
-# roll-the-dice
+# workshop
